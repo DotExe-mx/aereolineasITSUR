@@ -7,5 +7,7 @@
 <strong>Pantalla de bienvenida.</strong>
 ![Test Image inicio](Previews/animacion_autobusesInicio.png)
 
+<strong>Ventana de seleccion del vuelo, hora y tipo.</strong>
+![Test Image inicio](Previews/animacion_animacion_autobusEstandar.gif)
 
 
