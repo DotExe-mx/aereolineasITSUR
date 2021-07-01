@@ -1,6 +1,6 @@
 # Sistema simulador de venta de boletos de asiento de una empresa avionera.
 
-<h2>aereolineasITSUR es un pequeño sistema de control y venta de boletos de asiento para una agencia avionera, realizado en C# y con lectura de archivos (no DB).</h2>
+<h2>aereolineasITSUR es un pequeño sistema de control y venta de boletos de asiento para una agencia avionera, realizado en C# y con lectura de archivos de texto (no DB).</h2>
 <p>Realizado en Junio-2017</p>
 
 
@@ -17,5 +17,8 @@ En esta ventana se realiza la seleccion del horario y el tipo de vuelo (Estandar
 ![Test Image inicio](Previews/animacion_autobusPlus.gif)<br>
 
 
-
+Realizado por BRIYANT IVAN ZEUZ PEREZ REYES.
+Proyecto de la materia Topicos Avanzados de Programacion.
+Docente: M.T.W Patricia Vega Flores.
+ITSUR - 2017.
 
