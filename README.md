@@ -8,7 +8,7 @@
 ![Test Image inicio](Previews/animacion_autobusesInicio.png)<br>
 
 <strong>Ventana de seleccion del vuelo, hora y tipo.</strong>
-<p>En esta ventana se realiza la seleccion del horario y el tipo de vuelo (Estandar, Mega o Plus). Segun la seleccion del usuario y seguido muestra los asientos disponibles con la posibilidad de seleccionar el que desee, ademas se calcula un total por los asientos seleccionados. </p>
+En esta ventana se realiza la seleccion del horario y el tipo de vuelo (Estandar, Mega o Plus). Segun la seleccion del usuario y seguido muestra los asientos disponibles con la posibilidad de seleccionar el que desee, ademas se calcula un total por los asientos seleccionados.
 ![Test Image inicio](Previews/animacion_autobusEstandar.gif)<br>
 
 
