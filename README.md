@@ -4,7 +4,7 @@
 <p>Realizado en Junio-2017</p>
 
 
-#Pantalla de bienvenida.
+<strong>Pantalla de bienvenida.</strong>
 ![Test Image inicio](Previews/animacion_autobusesInicio.png)
 
 
