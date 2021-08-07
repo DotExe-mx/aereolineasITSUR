@@ -1,0 +1,54 @@
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe.config
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmPrincipal.resources
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.Properties.Resources.resources
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csproj.GenerateResource.Cache
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.exe
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.pdb
+c:\users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.pdb
+C:\Users\6430\Documents\Visual Studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosEstandar.resources
+C:\Users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosPlus.resources
+C:\Users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosMega.resources
+C:\Users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csprojResolveAssemblyReference.cache
+C:\Users\6430\documents\visual studio 2015\Projects\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAgradecimientos.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe.config
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.exe
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.pdb
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.pdb
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csprojResolveAssemblyReference.cache
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmPrincipal.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAgradecimientos.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosEstandar.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosMega.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosPlus.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.Properties.Resources.resources
+C:\Users\6430\Desktop\ENTREGADOS PATY SCHOOLOGY\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csproj.GenerateResource.Cache
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe.config
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.pdb
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csprojAssemblyReference.cache
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmPrincipal.resources
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAgradecimientos.resources
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosEstandar.resources
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosMega.resources
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosPlus.resources
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.Properties.Resources.resources
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csproj.GenerateResource.cache
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csproj.CoreCompileInputs.cache
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.exe
+C:\Users\dotexemx\Desktop\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.pdb
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe.config
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.exe
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\bin\Debug\AerolineasITSUR.pdb
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csprojAssemblyReference.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmPrincipal.resources
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAgradecimientos.resources
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosEstandar.resources
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosMega.resources
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.frmAsientosPlus.resources
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.Properties.Resources.resources
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csproj.GenerateResource.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.csproj.CoreCompileInputs.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.exe
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\GIT CV\AerolineasITSUR\AerolineasITSUR\obj\Debug\AerolineasITSUR.pdb
