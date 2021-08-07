@@ -286,7 +286,7 @@ namespace AerolineasITSUR
                         asientosplus.ShowDialog();
 
                     }
-                    if (radio.Text.Trim().Contains("Mega"))
+                    if (radio.Text.Trim().Contains("MegaX"))
                     {
                         String[] datosEstandar = radio.Text.Split(' ');
                         asientomega.cargarSeleccion(datosEstandar[0].ToString(), datosEstandar[2], cboOrigenes.Text, cboDestinos.Text);
